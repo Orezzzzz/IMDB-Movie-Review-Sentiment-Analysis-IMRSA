@@ -13,5 +13,6 @@ This project uses LSTM neural networks for IMDb sentiment analysis and is deploy
 | Task       | Sentiment Analysis |
  ---------------------------------
 
- Live App:
-https://your-app-name.streamlit.app
+
+Live App:
+https://imdb-movie-review-sentiment-analysis-imsa.streamlit.app
